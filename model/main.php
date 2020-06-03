@@ -5,7 +5,7 @@ require_once "dbconnect.php";
 class Main extends Dbconnect{
     
     public function __construct(){
-        parent::__construct();
+        parent::__construct(); 
     }
 
     public function executeQuery($sql){
