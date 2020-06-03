@@ -23,7 +23,7 @@
                    }
                }
                require_once "view/addproduct.php";
-           break;
+            break;
             
        case "edit" : 
               
