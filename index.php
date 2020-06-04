@@ -1,7 +1,7 @@
 <?php 
 
 include "./model/main.php";
-$app = new Main();       
+      
 
 if(isset($_GET['controller'])){
     $controller = $_GET['controller'];
